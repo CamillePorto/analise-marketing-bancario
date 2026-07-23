@@ -23,8 +23,8 @@ Esse tipo de análise é aplicável a qualquer negócio que precise priorizar le
 
  
 ## 📈 Visualizações
-![Descrição do gráfico 1](Imagens/Boxploto.png)
-![Descrição do gráfico 2](caminho/para/imagem2.png)
+![Descrição do gráfico 1](Imagens/Boxplot_duração_chamada_por_adesão.png)
+![Descrição do gráfico 2](Imagens/Curva_ROC_dois_modelos.png)
  
 ## 🛠️ Ferramentas
 Python · Pandas · Scikit-learn · Matplotlib/Seaborn · Google Colab
@@ -34,12 +34,11 @@ Python · Pandas · Scikit-learn · Matplotlib/Seaborn · Google Colab
 ├── notebook/
 │   └── analise_marketing_bancario.ipynb
 ├── relatorio/
-│   └── relatorio_final.pdf   (versão em PDF do relatório ABNT)
+│   └── bank_marketing_presentation.pdf 
 ├── imagens/
 │   └── graficos usados no README
 └── README.md
 ```
  
 ## 🔗 Links
-- Relatório completo (PDF): [link]
-- Notebook interativo (Colab): [link]
+- Notebook interativo (Colab): https://colab.research.google.com/drive/1Qyxv5laqR9qPXCjbOORwbqxCC6SYr0rI?usp=sharing
